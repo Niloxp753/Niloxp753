@@ -23,3 +23,9 @@
   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/services/npm.svg" alt="npm" style="vertical-align:top; margin:4px">
 </p>
 ##
+
+<h1 align='center'>⚡️<i>Stay awesome!</i>⚡️</h1>
+
+<p align="center">
+        <img src="https://raw.githubusercontent.com/bornmay/bornmay/Update/svg/Bottom.svg" alt="Github Stats" />
+</p>
