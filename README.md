@@ -12,7 +12,6 @@
 </div>
 
 
-##
     
     
 ## <h1 align='center'> <i>Linguagens de Programação Aprendidas ✔️<i></h1>
