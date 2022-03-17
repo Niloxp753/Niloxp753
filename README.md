@@ -15,7 +15,7 @@
 ##
     
     
-## Linguagens de Programação Aprendidas ✔️
+## <h1 align='center'> <i>Linguagens de Programação Aprendidas ✔️<i></h1>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/html.svg" alt="html" style="vertical-align:top; margin:4px">    
