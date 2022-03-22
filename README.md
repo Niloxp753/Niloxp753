@@ -24,6 +24,7 @@
   <img align="center" alt="git" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
   <img align="center" alt="express" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg">
   <img align="center" alt="MySql" height="40" width="40" src="https://cdn.iconscout.com/icon/premium/png-256-thumb/mysql-1618950-1378113.png">
+  <img align="center" alt="MySql" height="40" width="40" src="https://cdn.iconscout.com/icon/free/png-256/nodemon-3627182-3029590.png">
 </div>
 </p>
     
