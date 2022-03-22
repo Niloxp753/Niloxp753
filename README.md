@@ -17,7 +17,7 @@
 ## <h1 align='center'> <i>Languages✔️<i></h1>
 
 <p align="center">
-<div align="space-evenly" valign="top"><br>
+<div justify-content="space-evenly" valign="top"><br>
   <img align="center" alt="HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="nodejs" height="40" width="40" src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg">
