@@ -7,7 +7,7 @@
 
 
 
-<div style = "display: inline_block" align = "center">
+<div style = "display: inline_block" align = "justify">
 <img width = "400px" src = "https://github-readme-stats.vercel.app/api?username=Niloxp753&show_icons=true&theme=gotham"> <img width = "380px" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Niloxp753&show_icons=true&theme=gotham">
 </div>
 
