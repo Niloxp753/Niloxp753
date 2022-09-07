@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=180&section=header&text=Danilo Diniz dos Santos&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=180&section=header&text=Danilo+Diniz+dos+Santos&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/>
  
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Danilo+Diniz+dos+Santos;I'm+24+years+old;I+from+Itaim+Paulista,+SP;I+study+web+development+at+BlueEdtech;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
@@ -18,11 +18,6 @@
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=git,vscode,javascript,typescript,css,html,react,nest,sass,nodejs,express,mongo,postgres,prisma,googlecloud" />
 </a>
-
-<br>
-<br>
-
-<img src="./profile-3d-contrib/profile-night-rainbow.svg" />
 
 <div> 
 <a href="https://www.linkedin.com/in/danilo-diniz-dos-santos-7034b8136/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
