@@ -10,7 +10,7 @@
 ###### ✨*BLUEMER* ✨
 
 
-### Iniciei meus estudos na [*Blue Edtech*](https://github.com/blue-edtech), e vou compartilhar com vocês o meu progresso como FULLSTACK!
+### I started my studies at [*Blue Edtech*](https://github.com/blue-edtech), and I will share with you my progress as a FULLSTACK!
 
 ##
 
