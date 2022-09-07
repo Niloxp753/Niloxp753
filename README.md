@@ -1,5 +1,12 @@
 ## Oi, Eu sou o Danilo ✌️
 
+###### ✨*BLUEMER* ✨
+
+
+### Iniciei meus estudos na [*Blue Edtech*](https://github.com/blue-edtech), e vou compartilhar com vocês o meu progresso como FULLSTACK!
+
+##
+
 <br>
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=git,vscode,javascript,typescript,css,html,react,nest,sass,nodejs,express,mongo,postgres,prisma,googlecloud" />
